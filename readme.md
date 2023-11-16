@@ -1,4 +1,4 @@
-Template for converting from C99 to Rust using c2rust tool inside docker container
+Template for converting from C99 to Rust(unsafe) using c2rust tool inside docker container
 
 How it works: 
     
