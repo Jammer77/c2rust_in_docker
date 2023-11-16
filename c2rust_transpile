@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+mkdir -p build && cd build && cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1  .. && c2rust transpile --binary main --output-dir /usr/src/out/result compile_commands.json

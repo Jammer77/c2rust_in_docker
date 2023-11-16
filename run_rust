@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+cd /usr/src/out/result
+cargo run 
+cd -
